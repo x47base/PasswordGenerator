@@ -21,7 +21,7 @@ def Logo():
  |  _/ _` (_-<_-< V  V / _ \ '_/ _` | | (_ / -_) ' \/ -_) '_/ _` |  _/ _ \ '_|
  |_| \__,_/__/__/\_/\_/\___/_| \__,_|  \___\___|_||_\___|_| \__,_|\__\___/_|  
                                                                               """)
-	print("\t\t\t\t Made by DbomDev\n\n")
+	print("\t\t\t\t Made by github.com/x47base\n\n")
 
 def Programm():
 	ctypes.windll.kernel32.SetConsoleTitleW("Password Generator | Made by DbomDev")
